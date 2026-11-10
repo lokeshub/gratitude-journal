@@ -1,0 +1,9 @@
+{
+  "name": "Gratitude Journal",
+  "short_name": "Gratitude",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f3ed",
+  "theme_color": "#f7f3ed",
+  "description": "A personal gratitude journal"
+}
